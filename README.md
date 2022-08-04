@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/JACK-ZHANG-coming">
+<a href="https://github.com/LawrenceSivan">
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=JACK-ZHANG-coming&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=LawrenceSivan&column=7&theme=onedark"/>
   </p>
 
 </a>
 
 <a href="#">
-  <img align="right" src="https://metrics.lecoq.io/JACK-ZHANG-coming?template=terminal" />
+  <img align="right" src="https://metrics.lecoq.io/LawrenceSivan?template=terminal" />
 </a>
 
-# JACK-ZHANG-coming 🌝
+# LawrenceSivan 🌝
 
-<img width="340px" src="https://github-readme-stats.vercel.app/api?username=JACK-ZHANG-coming&theme=vue-dark&count_private=true&show_icons=true">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JACK-ZHANG-coming&theme=vue-dark&layout=compact">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=JACK-ZHANG-coming&repo=my-now-blog&theme=dark">
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=LawrenceSivan&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceSivan&theme=vue-dark&layout=compact">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=LawrenceSivan&repo=my-now-blog&theme=dark">
